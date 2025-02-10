@@ -1,0 +1,17 @@
+{
+    "output_regex": "[a-h][1-8](,[a-h][1-8])*",
+    "answers": [
+        {
+            "game": "games/moving_rooks1.pgn",
+            "result": "h8"
+        },
+        {
+            "game": "games/fast_castling_both_sides.pgn",
+            "result": "h1,h8"
+        },
+        {
+            "game": "games/moving_rooks_promotion.pgn",
+            "result": "g8"
+        }
+    ]
+}
