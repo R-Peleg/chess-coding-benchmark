@@ -12,6 +12,10 @@
         {
             "game": "games/moving_rooks_promotion.pgn",
             "result": "g8"
+        },
+        {
+            "game": "games/moving_rooks2.pgn",
+            "result": "a1,a8,c1,c8,h1,h8"
         }
     ]
 }
